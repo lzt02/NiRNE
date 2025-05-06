@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ## Start Quickly
 ```
-python infer.py -i data
+python infer.py --input_dir data --output_dir output
 ```
 
 ## Usage
